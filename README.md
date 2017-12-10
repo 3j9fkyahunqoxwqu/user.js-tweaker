@@ -1,5 +1,9 @@
 # user.js-tweaker for Android/Fiefox Browsers
 
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40CHEF-KOCH)](https://twitter.com/FZeven)
+[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/CHEF-KOCH)
+[![Discord](https://discordapp.com/api/guilds/204394292519632897/widget.png)](https://discord.me/NVinside)
+
 This will be the official [user.js](https://github.com/pyllyukko/user.js) by [pyllyukko](https://github.com/pyllyukko) and is maintained by [CHEF-KOCH](https://github.com/CHEF-KOCH) and community. 
 
 The project is under [Apache License 2.0](https://github.com/CHEF-KOCH/user.js-tweaker/blob/master/LICENSE).
@@ -13,7 +17,7 @@ The project is under [Apache License 2.0](https://github.com/CHEF-KOCH/user.js-t
 * Check/remove internal Firefox certificates which aren't needed in 99% of all time to lower attacks
 * Add Adroid Firefox support
 * Harden Firefox in general to not let the dark side win ! :+1:
-* ....
+* Make addon go WebExtension
 
 
 # What it can't fix
@@ -27,10 +31,10 @@ The project is under [Apache License 2.0](https://github.com/CHEF-KOCH/user.js-t
 
 # ToDo
 
-- [ ] Write an GUI (currently the changes are only visible within the add-ons options menu) (low-prio)
-- [ ] Get an method to restrict the integrated certificates by maniulating the cert8.db file (high-prio)
-- [ ] Add translations (low-prio)
-- [ ] Add add-on signing, please read [here](https://wiki.mozilla.org/Addons/Extension_Signing) (high-prio)
+- [x] Write an GUI (currently the changes are only visible within the add-ons options menu) (low-prio)
+- [x] Get an method to restrict the integrated certificates by maniulating the cert8.db file (high-prio)
+- [x] Add translations (low-prio)
+- [x] Add add-on signing, please read [here](https://wiki.mozilla.org/Addons/Extension_Signing) (high-prio)
 - [ ] Add an account for addons.mozilla.org (high-prio)
 - [ ] Implement profile support (high-prio)
 - [ ] Add donate option (if needed) (low-prio)
